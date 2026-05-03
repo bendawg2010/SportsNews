@@ -4,7 +4,7 @@ A free, open-source macOS desktop widget for sports headlines from ESPN, Fox Spo
 
 > Real photos. Real headlines. Tap to read in the built-in reader.
 
-**Site:** [sportsnews.pages.dev](https://sportsnews.pages.dev) · **Tip jar:** [Cash App $Dryeetsolutions](https://cash.app/$Dryeetsolutions) · **Sister widgets:** [News](https://github.com/bendawg2010/NewsWidgets) · [Scores](https://github.com/bendawg2010/Scores) · [F1 Live](https://github.com/bendawg2010/F1Live)
+**Site:** [sportsnewswidget.pages.dev](https://sportsnewswidget.pages.dev) · **Tip jar:** [Cash App $Dryeetsolutions](https://cash.app/$Dryeetsolutions) · **Sister widgets:** [News](https://github.com/bendawg2010/NewsWidgets) · [Scores](https://github.com/bendawg2010/Scores) · [F1 Live](https://github.com/bendawg2010/F1Live)
 
 ## Install
 
